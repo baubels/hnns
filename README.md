@@ -1,2 +1,3 @@
-# hnns
-Harmonic Neural networks implementation in tensorflow
+# Harmonic Networks: Deep Translation and Rotation Equivariance
+
+I implement this paper in Tensorflow.
