@@ -2,7 +2,7 @@
 
 I implement the hard-baked locally rotationally equivariant convolutional neural networks (harmonic nets) in PyTorch found: https://arxiv.org/abs/1612.04642.
 
-My equivariant function is based on learnable polynomials, however more features are to come. Loss metrics for deeper networks are quite promising, and show themselves in many applications that don't just suffer from translational equivariance, but further benefit from learnable local rotational equivariances.
+My equivariant function is based on learnable complex polynomials, however more features are to come. Loss metrics for deeper networks are quite promising, and show themselves in many applications that don't just suffer from translational equivariance, but further benefit from learnable local rotational equivariances.
 
 Why is this a good equivariance to learn?
 
